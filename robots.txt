@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chocominmovie-design.github.io/chocominmovie.github.io/sitemap.xml
